@@ -1,5 +1,4 @@
-#ℳeet me 𓍢 𐔌՞. .
-## Screenshots
+ℳeet me: 
+| Example Color | ![#fae1d2](https://dummyimage.com/10/0a192f/white?text=+) #fae1d2|
 
-![App Screenshot](https://i.pinimg.com/1200x/e4/8f/21/e48f2174b4a1f2441d6c8058f7c705ca.jpg)
 
